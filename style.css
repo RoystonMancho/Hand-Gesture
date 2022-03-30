@@ -1,0 +1,15 @@
+body{
+background-color:purple;    
+}
+.heading{
+font-size: 18px;
+border-radius: 10px;
+letter-spacing: 10px;    
+}
+.label{
+font-size:14px;
+color:black;
+padding:6px;
+border-radius: 10px;
+background-color:yellow;
+}
